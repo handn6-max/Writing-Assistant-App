@@ -1,0 +1,6 @@
+{
+  "name": "English Writing Assistant - Level A1-A2",
+  "description": "Ứng dụng hỗ trợ sinh viên cao đẳng luyện viết bài luận tiếng Anh Level 2.1 (A1-A2) theo 4 chủ đề chuẩn curriculum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
